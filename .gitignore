@@ -1,4 +1,4 @@
-/src/composer.lock
-/src/vendor/
+src/composer.lock
+src/vendor/
 
-/src/.env
+src/.env
